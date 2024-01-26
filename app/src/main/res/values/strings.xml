@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QR Share</string>
+    <string name="title_get">Get</string>
+    <string name="title_get_new">Get ●</string>
+    <string name="title_share">Share</string>
+    <string name="title_history">History</string>
+    <string name="title_scanner">Scanner</string>
+    <string name="title_session_info">Session</string>
+    <string name="share_button_label">Share</string>
+    <string name="connect_button_label">Tap to generate\na QR-code</string>
+    <string name="sharing_text_hint">Enter data to share</string>
+    <string name="session_name_text_hint">Enter session name</string>
+    <string name="scan_share_id_button_label">Scan</string>
+    <string name="delete">Delete</string>
+    <string name="session_name">Session Name</string>
+    <string name="session_nutshell">Session Nutshell</string>
+    <string name="session_datetime">Session DateTime</string>
+    <string name="connect_error">Cannot connect to server</string>
+</resources>

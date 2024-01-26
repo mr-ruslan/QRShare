@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="server_domain">10.0.2.2</string>
+    <string name="server_url">http://10.0.2.2:5001</string>
+    <string name="share_path">/share</string>
+</resources>
